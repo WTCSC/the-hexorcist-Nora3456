@@ -4,6 +4,7 @@ from hexorcist import to_decimal, from_decimal
 import unittest
 
 """Tests binary to all bases"""
+
 def test_binary_to_octal():
     """Tests to see if a binary value equals the right octal value."""
     decimal_value = to_decimal("1010", 2)
