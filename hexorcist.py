@@ -1,3 +1,10 @@
+"""
+File: hexorcist.py
+Author: Nora Rice
+Date Created: 2025-10-21
+Date Last Modified: 2025-11-04
+Description: This script runs a base converting program, that can convert any number in any base (2-36), to any other number in any other base (2-36).
+"""
 
 def to_decimal (number_string, original_base):
     """Converts from any base that the user listed as their current numbers base, into decimal (base-10)"""
